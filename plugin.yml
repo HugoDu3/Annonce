@@ -1,0 +1,12 @@
+name: Announce
+version: 1.16
+api-version: 1.16
+main: fr.jayrex.announcecommand.Main
+authors: [Iban]
+description: Core du projet SpartaCube
+depend: [LuckPerms]
+
+commands:
+  annonce:
+    description: Opens  GUI
+    usage: /annonce
